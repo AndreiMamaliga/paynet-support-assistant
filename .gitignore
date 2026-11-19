@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Documente generate (Nu urcam fisierele utilizatorilor!)
+uploads/*
+!uploads/.gitkeep
+
+# Fisiere sistem
+.DS_Store
+Thumbs.db
